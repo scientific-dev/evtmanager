@@ -2,12 +2,16 @@
 
 Simple and easy to use eventemitter to manage your events synchronously and asynchronously too for Deno, node and for the browser with a typesafe environment!
 
+[![](https://www.codefactor.io/repository/github/scientific-guy/evtmanager/badge?style=for-the-badge)](https://www.codefactor.io/repository/github/scientific-guy/evtmanager)
+[![](https://img.shields.io/badge/VIEW-GITHUB-white?style=for-the-badge)](https://github.com/Scientific-Guy/evtmanager)
+[![](https://img.shields.io/github/v/tag/Scientific-Guy/evtmanager?style=for-the-badge&label=version)](https://github.com/Scientific-Guy/evtmanager)
+
 ## Installation
 
 ### For deno
 
 ```ts
-import { EventEmitter } from "https://raw.githubusercontent.com/Scientific-Guy/evtmanager/master/deno/mod.ts";
+import { EventEmitter } from "https://raw.githubusercontent.com/Scientific-Guy/evtmanager/master/mod.ts";
 ```
 
 ### For node and browser
