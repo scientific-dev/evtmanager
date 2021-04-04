@@ -7,7 +7,7 @@ Simple and easy to use eventemitter to manage your events synchronously and asyn
 ### For deno
 
 ```ts
-import { EventEmitter } from "url";
+import { EventEmitter } from "https://raw.githubusercontent.com/Scientific-Guy/evtmanager/master/deno/mod.ts";
 ```
 
 ### For node and browser
