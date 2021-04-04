@@ -1,0 +1,10 @@
+# Test files
+test/
+bundles/
+treeemitter.ts
+
+# Build files
+dist/
+
+# Dev files
+.vscode/

@@ -1,0 +1,12 @@
+# Test files
+test/
+bundles/
+treeemitter.ts
+
+# Packaging
+package-lock.json
+node_modules/
+
+# Build files
+tsconfig.json
+src/
